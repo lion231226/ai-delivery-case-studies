@@ -51,6 +51,8 @@ Anonymized case studies from AI delivery work — RAG systems, LLM agents, evals
 
 ## Case 3 — Multi-agent systems (public repositories)
 
+![Multi-agent orchestration](assets/case3-multi-agent.png)
+
 **OmniPM** — a context-engineering multi-agent orchestration engine. Context is the program; execution is a DAG. Shipped a validation product on top of it: a yoga-studio operations system with a Go backend and a WeChat mini program.
 
 **OmniPM Orion** — a prompt system that turns one agent into a project lead coordinating 13 specialist roles across five project types.
