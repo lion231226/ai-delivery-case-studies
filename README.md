@@ -75,5 +75,5 @@ Anonymized case studies from AI delivery work — RAG systems, LLM agents, evals
 
 ## Contact
 
-- Upwork: https://www.upwork.com/freelancers/~01b9396da37e8e4efd
+- Upwork: https://www.upwork.com/freelancers/gangli
 - GitHub: https://github.com/lion231226
